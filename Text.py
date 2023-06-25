@@ -1,4 +1,4 @@
-# from View import search_word
+
 
 
 main_menu = ['Главное меню',
